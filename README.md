@@ -2,13 +2,16 @@
 A travel and tourism website concept designed around destinations, tour packages, travel services and payment-related user flows.
 ## 📸 Screenshots
 
-### Travel Tours Boking
-![Travel Tours Boking - Homepage](cargohompage.png)
+### Homepage
+![Homepage](travelhompage.png)
 
-### Travel Tours Boking
-![Travel Tours Boking -Packages](cargopkgs.png) 
+### Destinations
+![Destinations](traveldestinations.png) 
 
-## 🛠️ Tech Stack
+### Services
+![Services](travelservices.png) 
+
+## 🛠️ Tech Stack)
 
 - HTML5
 - CSS3
