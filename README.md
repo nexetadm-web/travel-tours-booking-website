@@ -3,7 +3,8 @@ A travel and tourism website concept designed around destinations, tour packages
 ## 📸 Screenshots
 
 ### Homepage
-![Hompage](travelhompage.png)
+![hompage](travelhompage.png) 
+
 
 ### Destinations
 ![Destinations](traveldestinations.png) 
