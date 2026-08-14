@@ -9,7 +9,7 @@ A travel and tourism website concept designed around destinations, tour packages
 ![Travel Tours Boking -Packages](cargopkgs.png)
 
 ### Travel Tours Boking
-![Travel Tours Boking - services](cargoservices.png)
+![Travel Tours Boking -services](cargoservices.png)
 
 # Features:
 
