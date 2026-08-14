@@ -6,13 +6,7 @@ A travel and tourism website concept designed around destinations, tour packages
 ![Travel Tours Boking - Homepage](cargohompage.png)
 
 ### Travel Tours Boking
-![Travel Tours Boking -Packages](cargopkgs.png)
+![Travel Tours Boking -Packages](cargopkgs.png) 
 
-# Features:
-
-Travel destinations
-Tour packages
-Travel booking flow
-Payment interface
-Destination pages
-Responsive design
+# Tech Stack
+JavaScript | React | HTML5 | CSS3 | Node.js | AI APIs | Google Gemini | OpenAI | Groq | Vercel
